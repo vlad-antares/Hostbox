@@ -1,0 +1,35 @@
+.sprite {
+    background-image: url('../img/spritesheet.png');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-1 {
+    width: 51px;
+    height: 68px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-2 {
+    width: 52px;
+    height: 25px;
+    background-position: -5px -83px;
+}
+
+.sprite-icon-3 {
+    width: 42px;
+    height: 42px;
+    background-position: -5px -118px;
+}
+
+.sprite-icon-4 {
+    width: 45px;
+    height: 55px;
+    background-position: -5px -170px;
+}
+
+.sprite-icon-5 {
+    width: 89px;
+    height: 89px;
+    background-position: -5px -235px;
+}
